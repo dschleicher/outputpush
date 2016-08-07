@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="CMC Interface"
+    Link="/Content/CMC Interface/CmcInterfaceOverview.htm">
+    <TocEntry
+      Title="Analytics">
+      <TocEntry
+        Title="Usage By Users &amp; Groups"
+        Link="/Content/CMC Interface/Analytics/Usage By Users &amp; Groups/UsageOverview.htm">
+        <TocEntry
+          Title="Create a Usage Report"
+          Link="/Content/CMC Interface/Analytics/Usage By Users &amp; Groups/UsageCreateReport.htm" />
+        <TocEntry
+          Title="Review Usage Report Output"
+          Link="/Content/CMC Interface/Analytics/Usage By Users &amp; Groups/UsageReviewReport.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Buckets &amp; Objects"
+      Link="/Content/CMC Interface/Buckets &amp; Objects/BucketsObjectsOverview.htm">
+      <TocEntry
+        Title="Buckets"
+        Link="/Content/CMC Interface/Buckets &amp; Objects/Buckets/BucketsOverview.htm">
+        <TocEntry
+          Title="Add a Bucket"
+          Link="/Content/CMC Interface/Buckets &amp; Objects/Buckets/BucketAdd.htm" />
+        <TocEntry
+          Title="Set Bucket Properties"
+          Link="/Content/CMC Interface/Buckets &amp; Objects/Buckets/Set Bucket Properties/BucketPropertiesOverview.htm">
+          <TocEntry
+            Title="Set Custom S3 Permissions on a Bucket"
+            Link="/Content/CMC Interface/Buckets &amp; Objects/Buckets/Set Bucket Properties/BucketPropertiesCustomPermissions.htm" />
+          <TocEntry
+            Title="Set &quot;Canned&quot; S3 Permissions on a Bucket"
+            Link="/Content/CMC Interface/Buckets &amp; Objects/Buckets/Set Bucket Properties/BucketPropertiesCannedPermissions.htm" />
+          <TocEntry
+            Title="View a Bucket's Storage Policy Information"
+            Link="/Content/CMC Interface/Buckets &amp; Objects/Buckets/Set Bucket Properties/BucketPropertiesStoragePolicy.htm" />
+          <TocEntry
+            Title="Configure a Bucket Lifecycle Policy for Object Auto-Tiering or Expiration"
+            Link="/Content/CMC Interface/Buckets &amp; Objects/Buckets/Set Bucket Properties/BucketPropertiesLifecycle.htm" />
+          <TocEntry
+            Title="Configure a Bucket as a Static Website"
+            Link="/Content/CMC Interface/Buckets &amp; Objects/Buckets/Set Bucket Properties/BucketPropertiesStaticWebsite.htm" />
+          <TocEntry
+            Title="Configure Cross-Region Replication for a Bucket"
+            Link="/Content/CMC Interface/Buckets &amp; Objects/Buckets/Set Bucket Properties/BucketPropertiesReplication.htm" />
+          <TocEntry
+            Title="Set Versioning for a Bucket"
+            Link="/Content/CMC Interface/Buckets &amp; Objects/Buckets/Set Bucket Properties/BucketPolicyVersioning.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Delete a Bucket"
+          Link="/Content/CMC Interface/Buckets &amp; Objects/Buckets/BucketDelete.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Objects"
+        Link="/Content/CMC Interface/Buckets &amp; Objects/Objects/ObjectsOverview.htm">
+        <TocEntry
+          Title="Create or Delete a &quot;Folder&quot;"
+          Link="/Content/CMC Interface/Buckets &amp; Objects/Objects/ObjectCreateFolder.htm" />
+        <TocEntry
+          Title="Upload a File"
+          Link="/Content/CMC Interface/Buckets &amp; Objects/Objects/ObjectUpload.htm" />
+        <TocEntry
+          Title="Object Naming Restrictions"
+          Link="/Content/CMC Interface/Buckets &amp; Objects/Objects/ObjectNameRestrictions.htm" />
+        <TocEntry
+          Title="Set Object Properties"
+          Link="/Content/CMC Interface/Buckets &amp; Objects/Objects/Set Object Properties/ObjectPropertiesOverview.htm">
+          <TocEntry
+            Title="Set Custom S3 Permissions on a File"
+            Link="/Content/CMC Interface/Buckets &amp; Objects/Objects/Set Object Properties/ObjectPropertiesCustomPermissions.htm" />
+          <TocEntry
+            Title="Set &quot;Canned&quot; S3 Permissions on a File"
+            Link="/Content/CMC Interface/Buckets &amp; Objects/Objects/Set Object Properties/ObjectPropertiesCannedPermissions.htm" />
+          <TocEntry
+            Title="Set Public URL Permissions on a File"
+            Link="/Content/CMC Interface/Buckets &amp; Objects/Objects/Set Object Properties/ObjectPropertiesPublicUrl.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Search for a File"
+          Link="/Content/CMC Interface/Buckets &amp; Objects/Objects/ObjectSearch.htm" />
+        <TocEntry
+          Title="Download a File"
+          Link="/Content/CMC Interface/Buckets &amp; Objects/Objects/ObjectDownload.htm" />
+        <TocEntry
+          Title="Delete a File"
+          Link="/Content/CMC Interface/Buckets &amp; Objects/Objects/ObjectDelete.htm" />
+        <TocEntry
+          Title="Restore an Auto-Tiered File"
+          Link="/Content/CMC Interface/Buckets &amp; Objects/Objects/ObjectRestore.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Users &amp; Groups"
+      Link="/Content/CMC Interface/Users &amp; Groups/UsersGroupsOverview.htm">
+      <TocEntry
+        Title="Manage Groups"
+        Link="/Content/CMC Interface/Users &amp; Groups/Manage Groups/ManageGroupsOverview.htm">
+        <TocEntry
+          Title="Edit a Group"
+          Link="/Content/CMC Interface/Users &amp; Groups/Manage Groups/ManageGroupsEdit.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Manage Users"
+        Link="/Content/CMC Interface/Users &amp; Groups/Manage Users/ManageUsersOverview.htm">
+        <TocEntry
+          Title="Add a User"
+          Link="/Content/CMC Interface/Users &amp; Groups/Manage Users/ManageUsersAdd.htm" />
+        <TocEntry
+          Title="Retrieve a User or List of Users"
+          Link="/Content/CMC Interface/Users &amp; Groups/Manage Users/ManageUsersRetrieve.htm" />
+        <TocEntry
+          Title="Edit a User"
+          Link="/Content/CMC Interface/Users &amp; Groups/Manage Users/ManageUsersEdit.htm" />
+        <TocEntry
+          Title="Manage a User's Stored Objects"
+          Link="/Content/CMC Interface/Users &amp; Groups/Manage Users/ManageUsersObjects.htm" />
+        <TocEntry
+          Title="Delete a User"
+          Link="/Content/CMC Interface/Users &amp; Groups/Manage Users/ManageUsersDelete.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Set Quality of Service (QoS) Controls"
+        Link="/Content/CMC Interface/Users &amp; Groups/SetQoS.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="My Account"
+      Link="/Content/CMC Interface/My Account/MyAccountOverview.htm">
+      <TocEntry
+        Title="Profile"
+        Link="/Content/CMC Interface/My Account/Profile.htm" />
+      <TocEntry
+        Title="Security Credentials"
+        Link="/Content/CMC Interface/My Account/SecurityCredentials.htm" />
+    </TocEntry>
+  </TocEntry>
+</CatapultToc>

@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],u:['../Content/CMC Interface/Analytics/Usage By Users \u0026 Groups/UsageCreateReport.htm'],s:['0','variat'],p:[['0',6],['dashes',6],['logs',10],['so',13]]});
